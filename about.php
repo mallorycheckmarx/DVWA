@@ -58,3 +58,6 @@ dvwaHtmlEcho( $page );
 exit;
 
 ?>
+
+<div>
+</div>
